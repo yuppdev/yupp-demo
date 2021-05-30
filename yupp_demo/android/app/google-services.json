@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "754338614524",
+    "project_id": "yupp-demo",
+    "storage_bucket": "yupp-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754338614524:android:4876141e4db0d3f5385b79",
+        "android_client_info": {
+          "package_name": "yupp.yupp_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754338614524-bb2k5iuesuv9keai1gogqve7thmmvsvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yupp.yupp_demo",
+            "certificate_hash": "7f71798979e4321cfc90a44c2ce0464013899a3d"
+          }
+        },
+        {
+          "client_id": "754338614524-mirajr85df2rgp0fe9qnflv2t9vl2bgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPhaffTSswo7ff50CZHCaiLWVD6LBPaso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754338614524-mirajr85df2rgp0fe9qnflv2t9vl2bgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
